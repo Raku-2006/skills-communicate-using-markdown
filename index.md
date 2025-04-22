@@ -3,3 +3,8 @@
 ```javascript
 let text = "Hello, world!"
 ```
+
+- [x] Submit some homeworks
+- [ ] Pay money to the club
+- [ ] Write a report
+- [ ] Go to bed early
